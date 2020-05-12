@@ -1,0 +1,27 @@
+body {
+  background-color: #a3d9ff;
+}
+.navbar-brand {
+  margin: 20px;
+  text-align: left;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: blanchedalmond;
+  text-decoration: none;
+}
+.text-center {
+  margin: 10px;
+  color: #e56b6f;
+}
+.subhead {
+  text-align: center;
+  color: #7209b7;
+}
+.col-md-12 {
+  border: 3px solid black;
+  background-color: #ffb4a2;
+  margin: 5px;
+}
